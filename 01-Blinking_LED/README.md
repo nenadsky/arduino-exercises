@@ -23,4 +23,4 @@ The negation operator was also used with the digitalWrite function to provide th
 
 ***More on https://blog.nenadsky.com/en/hello-arduino-world-trepcuci-led/***
 
-***Српска - Serbian @ https://blog.nenadsky.com/hello-arduino-world-trepcuci-led/***
+***Српски - Serbian @ https://blog.nenadsky.com/hello-arduino-world-trepcuci-led/***
