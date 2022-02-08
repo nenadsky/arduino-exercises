@@ -1,6 +1,4 @@
 
-***ENGLISH***
-
 **Flashing LED - Arduino project**
 
 It is a basic, beginner project that aims to get acquainted with the pins of the Arduino, how they are used as outputs to control the operation of the electrical circuit. In this case, this control is reduced to alternating on and off LEDs in a certain time interval.
