@@ -12,7 +12,7 @@
 3. 255 => јачина светлости диоде 100%
 
 ## Шема
-![Шема кола](http://via.placeholder.com/200x150 "Шема кола")
+![Шема кола](https://github.com/nenadsky/arduino-exercises/blob/main/02-1-Led_fade/led-fade-circuit.png "Шема кола")
 
 ## Скица - Код
 
