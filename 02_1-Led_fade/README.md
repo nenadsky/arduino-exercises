@@ -60,7 +60,6 @@ brightness = brightness + fadeAmount;
 
 | Итерација  |  brightness |
 | :---: | :---: |
-| ------------- | ------------- |
 |    0      |      0  |
 |    1      |      5  |
 |    2      |      10 |
