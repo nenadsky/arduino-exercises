@@ -61,10 +61,10 @@ brightness = brightness + fadeAmount;
 | Итерација  |  brightness |
 | :---: | :---: |
 | ------------- | ------------- |
-    0      |      0
-    1      |      5
-    2      |      10
-    3      |      15...
+|    0      |      0  |
+|    1      |      5  |
+|    2      |      10 |
+|    3      |      15...|
 
 ```
 if( brightness < 1 || brightness > 255)
