@@ -1,5 +1,5 @@
 # arduino-exercises
-Course: Computer electro-technician
+Course: Computer technician
 
 Subject: Microcontrollers and microcomputers
 
